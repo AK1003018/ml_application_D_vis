@@ -18,4 +18,4 @@ Select .csv File
 
 Link For Video---
 
-![CLICK HERE FOR VIDEO](https://drive.google.com/file/d/1kmeCebOso_WQ2fffbtQl66L3QY-w7o_M/view?usp=sharing)
+![CLICK HERE FOR VIDEO](https://drive.google.com/file/d/1kmeCebOso_WQ2fffbtQl66L3QY-w7o_M/view)
