@@ -2,7 +2,7 @@
 <h1>Machine Learning Application - Data Visualization </h1>
 
 
-Link For Video---
+Link For Video---(Click on the below Thumbnail)
 
 
 <a href="https://drive.google.com/file/d/1kmeCebOso_WQ2fffbtQl66L3QY-w7o_M/view?usp=sharing">
